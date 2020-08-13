@@ -1,0 +1,9 @@
+APP_LEVEL:
+    ☐ Build procedure (and deploy eventually)
+
+BACKEND:
+    ✘ Basic nodejs server with login/register endpoints @started(20-08-13 19:44) @cancelled(20-08-13 19:50) @wasted(6m54s)
+    ☐ Literalise myself on sessions/login/register/user/coockies stuff @started(20-08-13 19:50)
+
+FRONTEND:
+    ☐ Once the login/register finctionality is done --> write interface to use it

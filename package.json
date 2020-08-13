@@ -1,0 +1,14 @@
+{
+  "name": "bg_nature_project",
+  "version": "1.0.0",
+  "description": "Presantational web platform with overview of the bulgarian nature",
+  "scripts": {
+    "start:cms": "npm start --prefix ./frontend/cms",
+    "start:client": "npm start --prefix ./frontend/client",
+    "start:backend": "npm start --prefix ./backend",
+    "dev": "concurrently npm:start:*"
+  },
+  "keywords": [],
+  "author": "svrakata",
+  "license": "ISC"
+}

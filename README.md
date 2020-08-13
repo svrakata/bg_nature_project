@@ -19,6 +19,12 @@ Presantational web platform with overview of the bulgarian nature
 ## Architecture
 
 ### Stage 1:
+
+Make server / login logic / db layer / and basic client
+
+bgnature.com
+cms.bgnature.com
+
 * Basic server with [NestJS](https://nestjs.com/) that will lay the foundation for the api 
 * DB: MongoDB --> how to separate sever logic from db logic
 * Basic CMS: needs user permissions, interface, data generation logic, rich text editor supporting cyrilic and latin languages.
@@ -26,6 +32,7 @@ Presantational web platform with overview of the bulgarian nature
 
 
 #### Folder structure
-* server
+* backend
+* frontend
 * cms
-* client
+
