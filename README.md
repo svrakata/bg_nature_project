@@ -46,3 +46,9 @@ Client port is 3001.
 Cms port is 3002.
 
 You can change the ports in the .env file in the corrensponding folders.
+
+#### Authetification - useful materials:
+* [YT video with very good explanation](https://www.youtube.com/watch?v=2PPSXonhIck)
+* [github article on JWT expiration](https://gist.github.com/soulmachine/b368ce7292ddd7f91c15accccc02b8df)
+* [Token Based Authentication for Single Page Apps](https://stormpath.com/blog/token-auth-spa)
+
