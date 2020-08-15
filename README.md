@@ -52,3 +52,5 @@ You can change the ports in the .env file in the corrensponding folders.
 * [github article on JWT expiration](https://gist.github.com/soulmachine/b368ce7292ddd7f91c15accccc02b8df)
 * [Token Based Authentication for Single Page Apps](https://stormpath.com/blog/token-auth-spa)
 
+#### Configuration
+* [The twelve-factor app config](https://12factor.net/config)
