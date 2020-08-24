@@ -9,7 +9,7 @@
     "down": "docker-compose down",
     "prebuild": "rm -rf build",
     "build": "tsc",
-    "dev": "ts-node-dev --transpile-only --no-notify src"
+    "dev": "ts-node-dev --transpile-only --no-notify -r dotenv/config src"
   },
   "keywords": [],
   "author": "",
